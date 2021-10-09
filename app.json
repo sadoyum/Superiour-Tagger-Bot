@@ -1,5 +1,5 @@
 {
-  "name": "MentionProbot",
+  "name": "Superiour-Tagger-Bot",
   "description": "A Simple Mention All Bot For Telegram.",
   "env": {
     "API_ID": {
