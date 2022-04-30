@@ -1,6 +1,6 @@
 {
-  "name": "Superiour-Tagger-Bot",
-  "description": "A Simple Mention All Bot For Telegram.",
+  "name": "Etiketleme Botum",
+  "description": "Etiketleme botcuğum.",
   "env": {
     "API_ID": {
       "description": "Enter Your App ID.",
